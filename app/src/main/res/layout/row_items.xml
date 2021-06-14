@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D5CED0"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="397dp"
+        android:layout_height="8dp"
+        android:layout_margin="8dp">
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/images"
+        android:layout_width="match_parent"
+        android:layout_height="171dp"
+        android:src="@drawable/nasigoreng" />
+
+    <RelativeLayout
+        android:layout_width="397dp"
+        android:layout_height="8dp"
+        android:layout_margin="8dp">
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:fontFamily="casual"
+        android:paddingTop="2dp"
+        android:text="Emails"
+        android:textAlignment="gravity"
+        android:textColor="#090909"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:fontFamily="casual"
+        android:text="Names"
+        android:textColor="#050505"
+        android:textSize="14sp" />
+
+</LinearLayout>

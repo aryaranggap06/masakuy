@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49729714232",
+    "project_id": "masakuy-77cd6",
+    "storage_bucket": "masakuy-77cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49729714232:android:befdb883581d4a66bacecd",
+        "android_client_info": {
+          "package_name": "com.toni.masakuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49729714232-nivd0938g5e0qpfdv5emksqdvrsfk1nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAd3sZzsGNm-1Ta-JS1M_L8BcS5NX87o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49729714232-nivd0938g5e0qpfdv5emksqdvrsfk1nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
